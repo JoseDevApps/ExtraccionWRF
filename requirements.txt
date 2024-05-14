@@ -1,0 +1,5 @@
+conda-forge::netcdf4==1.6.0
+conda-forge::wrf-python==1.3.4.1
+conda-forge::psycopg2-binary==2.9.9
+conda-forge::python-dotenv==1.0.1
+anaconda::sqlalchemy==2.0.21
